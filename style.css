@@ -1,0 +1,48 @@
+header {
+    background-color: #333;
+    text-align: center;
+    
+}
+body{
+    background-color: #ffffff ;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+*{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.a{
+    margin: 30px 15px;
+    font-size: 20px; 
+    color: aliceblue;
+}
+
+a{
+    text-decoration: none;
+}
+
+.home{
+    font-size: 30px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    padding: 500px;
+    background-image: url(ghiffary-ridhwan-6UzwpVyK1ew-unsplash.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.about{
+    margin: 100px;
+    text-align: center;
+}
+
+.donasi{
+    margin: 100px;
+    text-align: center;
+}
+footer {
+	background-color: #706C61;
+	color: #ffffff;
+	padding: 10px;
+	text-align: center;
+}
